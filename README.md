@@ -1,6 +1,6 @@
-# face-recognition-client
+# Detect-face-client
 
- ## Deployed at https://brain-client2.herokuapp.com
+
 
 Face recognition in photos
 Fullstack project
